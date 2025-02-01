@@ -25,6 +25,19 @@
             android:padding="24dp"
             android:background="@drawable/custom_edittext">
 
+            <EditText
+                android:id="@+id/password"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/custom_edittext"
+                android:drawableLeft="@drawable/ic_baseline_lock_24"
+                android:drawablePadding="8dp"
+                android:hint="Password"
+                android:inputType="textPassword"
+                android:padding="8dp"
+                android:textColor="@color/black" />
+
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -46,20 +59,6 @@
                 android:textColor="@color/black"
                 android:drawablePadding="8dp"
                 android:drawableLeft="@drawable/ic_baseline_person_24"
-                />
-
-            <EditText
-                android:layout_width="match_parent"
-                android:layout_height="50dp"
-                android:id="@+id/password"
-                android:background="@drawable/custom_edittext"
-                android:layout_marginTop="20dp"
-                android:inputType="textPassword"
-                android:padding="8dp"
-                android:hint="Password"
-                android:textColor="@color/black"
-                android:drawablePadding="8dp"
-                android:drawableLeft="@drawable/ic_baseline_lock_24"
                 />
 
             <Button
