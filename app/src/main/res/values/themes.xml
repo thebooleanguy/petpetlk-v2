@@ -6,4 +6,8 @@
     </style>
 
     <style name="Theme.PetPetLK" parent="Base.Theme.PetPetLK" />
+    <style name="cornorImage">
+        <item name="cornerSize">10dp</item>
+        <item name ="cornerFamily">rounded</item>
+    </style>
 </resources>

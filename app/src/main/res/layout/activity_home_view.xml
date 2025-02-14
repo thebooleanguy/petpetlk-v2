@@ -137,7 +137,7 @@
                         <ImageButton
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@android:color/transparent"
+                            android:background="@drawable/items_rec_bg"
                             android:src="@drawable/category_tile_3" />
                     </androidx.cardview.widget.CardView>
 
