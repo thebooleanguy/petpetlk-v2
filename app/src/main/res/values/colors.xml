@@ -9,6 +9,7 @@
     <color name="lgn_dark_purple">#6852A5</color>
     <color name="homePurple">#9B8ACA</color>
     <color name="items_rec_color">#8A5492</color>
-    <color name="items_bg">#AA4FF6</color>
+    <color name="item_bg">#AA4FF6</color>
+    <color name="corner_bg">#0490A4</color>
 
 </resources>
